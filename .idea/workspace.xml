@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8994057e-01ef-4cf1-811a-67f55bcfc9b1" name="Default" comment="">
+    <list default="true" id="8994057e-01ef-4cf1-811a-67f55bcfc9b1" name="Default" comment="Update rails to 5.2.4.2">
       <change beforePath="$PROJECT_DIR$/.idea/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0437e8e2-5e49-4083-aef4-28d65cacfab1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0437e8e2-5e49-4083-aef4-28d65cacfab1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9410cc68-6aed-4522-ae06-199dce8431e5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9410cc68-6aed-4522-ae06-199dce8431e5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,8 +198,18 @@
       <workItem from="1504726087210" duration="367000" />
       <workItem from="1583310604646" duration="1111000" />
       <workItem from="1586708388305" duration="690000" />
-      <workItem from="1586800738972" duration="1453000" />
+      <workItem from="1586800738972" duration="3164000" />
+      <workItem from="1586852766443" duration="84000" />
+      <workItem from="1586853456121" duration="276000" />
     </task>
+    <task id="LOCAL-00001" summary="Update rails to 5.2.4.2">
+      <created>1586802425820</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586802425820</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,30 +228,57 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update rails to 5.2.4.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update rails to 5.2.4.2" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="898" height="412" key="GridCell.Tab.0.bottom" timestamp="1586802259820">
+    <state x="578" y="129" width="821" height="847" key="CommitChangelistDialog2" timestamp="1586802425104">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="898" height="412" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1586802259820" />
-    <state width="898" height="412" key="GridCell.Tab.0.center" timestamp="1586802259819">
+    <state x="578" y="129" width="821" height="847" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1586802425104" />
+    <state width="1807" height="412" key="GridCell.Tab.0.bottom" timestamp="1586803911997">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="898" height="412" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1586802259819" />
-    <state width="898" height="412" key="GridCell.Tab.0.left" timestamp="1586802259819">
+    <state width="1807" height="412" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1586803911997" />
+    <state width="1807" height="412" key="GridCell.Tab.0.center" timestamp="1586803911996">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="898" height="412" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1586802259819" />
-    <state width="898" height="412" key="GridCell.Tab.0.right" timestamp="1586802259819">
+    <state width="1807" height="412" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1586803911996" />
+    <state width="1807" height="412" key="GridCell.Tab.0.left" timestamp="1586803911995">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="898" height="412" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1586802259819" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1586708730062">
+    <state width="1807" height="412" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1586803911995" />
+    <state width="1807" height="412" key="GridCell.Tab.0.right" timestamp="1586803911996">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586708730062" />
+    <state width="1807" height="412" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1586803911996" />
+    <state width="1807" height="412" key="GridCell.Tab.1.bottom" timestamp="1586803912003">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="412" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1586803912003" />
+    <state width="1807" height="412" key="GridCell.Tab.1.center" timestamp="1586803912001">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="412" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1586803912001" />
+    <state width="1807" height="412" key="GridCell.Tab.1.left" timestamp="1586803911997">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="412" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1586803911997" />
+    <state width="1807" height="412" key="GridCell.Tab.1.right" timestamp="1586803912003">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="412" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1586803912003" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1586802434216">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586802434216" />
     <state x="761" y="472" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586802373474">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="761" y="472" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586802373474" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/first_rails_app@Development__blog.rcov" NAME="Development: blog Coverage Results" MODIFIED="1586803765052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="blog" />
   </component>
 </project>
