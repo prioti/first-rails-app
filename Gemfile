@@ -32,6 +32,10 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+#
+#
+gem "rack", ">= 2.2.3"
+
 # install faker LIB
 gem 'faker', '~> 1.4'
 
